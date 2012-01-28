@@ -1,0 +1,9 @@
+[submodule "OHAttributedLabel"]
+	path = OHAttributedLabel
+	url = git://github.com/AliSoftware/OHAttributedLabel.git
+[submodule "S4LuceneLibrary"]
+	path = S4LuceneLibrary
+	url = git://github.com/mikekppp/S4LuceneLibrary.git
+[submodule "S4iOSLibraries"]
+	path = S4iOSLibraries
+	url = git://github.com/mikekppp/S4iOSLibraries.git
