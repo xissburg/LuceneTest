@@ -7,12 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "LuceneKit.h"
 
 @interface ViewController : UIViewController <UITableViewDelegate, UITableViewDataSource, UISearchBarDelegate>
 
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
 @property (weak, nonatomic) IBOutlet UISearchBar *searchBar;
-
-@property (strong, nonatomic) NSMutableArray *searchResultsArray;
 
 @end

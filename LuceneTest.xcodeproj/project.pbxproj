@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B7F9F7C14D39F7100A7803C /* 1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7214D39F7100A7803C /* 1.txt */; };
+		1B7F9F7D14D39F7100A7803C /* 2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7314D39F7100A7803C /* 2.txt */; };
+		1B7F9F7E14D39F7100A7803C /* 3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7414D39F7100A7803C /* 3.txt */; };
+		1B7F9F7F14D39F7100A7803C /* 4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7514D39F7100A7803C /* 4.txt */; };
+		1B7F9F8014D39F7100A7803C /* 5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7614D39F7100A7803C /* 5.txt */; };
+		1B7F9F8114D39F7100A7803C /* 7.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7714D39F7100A7803C /* 7.txt */; };
+		1B7F9F8214D39F7100A7803C /* 8.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7814D39F7100A7803C /* 8.txt */; };
+		1B7F9F8314D39F7100A7803C /* 457636025.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7914D39F7100A7803C /* 457636025.txt */; };
+		1B7F9F8414D39F7100A7803C /* gpu.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7A14D39F7100A7803C /* gpu.txt */; };
+		1B7F9F8514D39F7100A7803C /* mmu.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1B7F9F7B14D39F7100A7803C /* mmu.txt */; };
+		1B7F9F8E14D3ACBD00A7803C /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B7F9F8D14D3ACBD00A7803C /* LoadingView.m */; };
 		1BBFB7DC14D37C5600C8C1A0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BBFB7DB14D37C5600C8C1A0 /* UIKit.framework */; };
 		1BBFB7DE14D37C5600C8C1A0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BBFB7DD14D37C5600C8C1A0 /* Foundation.framework */; };
 		1BBFB7E014D37C5600C8C1A0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BBFB7DF14D37C5600C8C1A0 /* CoreGraphics.framework */; };
@@ -180,6 +191,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B7F9F7214D39F7100A7803C /* 1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 1.txt; path = LuceneTest/Resources/1.txt; sourceTree = "<group>"; };
+		1B7F9F7314D39F7100A7803C /* 2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 2.txt; path = LuceneTest/Resources/2.txt; sourceTree = "<group>"; };
+		1B7F9F7414D39F7100A7803C /* 3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 3.txt; path = LuceneTest/Resources/3.txt; sourceTree = "<group>"; };
+		1B7F9F7514D39F7100A7803C /* 4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 4.txt; path = LuceneTest/Resources/4.txt; sourceTree = "<group>"; };
+		1B7F9F7614D39F7100A7803C /* 5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 5.txt; path = LuceneTest/Resources/5.txt; sourceTree = "<group>"; };
+		1B7F9F7714D39F7100A7803C /* 7.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 7.txt; path = LuceneTest/Resources/7.txt; sourceTree = "<group>"; };
+		1B7F9F7814D39F7100A7803C /* 8.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 8.txt; path = LuceneTest/Resources/8.txt; sourceTree = "<group>"; };
+		1B7F9F7914D39F7100A7803C /* 457636025.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 457636025.txt; path = LuceneTest/Resources/457636025.txt; sourceTree = "<group>"; };
+		1B7F9F7A14D39F7100A7803C /* gpu.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = gpu.txt; path = LuceneTest/Resources/gpu.txt; sourceTree = "<group>"; };
+		1B7F9F7B14D39F7100A7803C /* mmu.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = mmu.txt; path = LuceneTest/Resources/mmu.txt; sourceTree = "<group>"; };
+		1B7F9F8C14D3ACBD00A7803C /* LoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingView.h; sourceTree = "<group>"; };
+		1B7F9F8D14D3ACBD00A7803C /* LoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingView.m; sourceTree = "<group>"; };
 		1BBFB7D714D37C5600C8C1A0 /* LuceneTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LuceneTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BBFB7DB14D37C5600C8C1A0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		1BBFB7DD14D37C5600C8C1A0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -573,6 +596,7 @@
 			isa = PBXGroup;
 			children = (
 				1BBFB7E114D37C5600C8C1A0 /* LuceneTest */,
+				1BBFBB2D14D3950400C8C1A0 /* Resources */,
 				1BBFB84014D3900600C8C1A0 /* Lucene */,
 				1BBFB9DA14D390BE00C8C1A0 /* S4iOSLib */,
 				1BBFB81714D3859400C8C1A0 /* OHAttributedLabel */,
@@ -610,6 +634,8 @@
 				1BBFB7ED14D37C5600C8C1A0 /* MainStoryboard.storyboard */,
 				1BBFB7F014D37C5600C8C1A0 /* ViewController.h */,
 				1BBFB7F114D37C5600C8C1A0 /* ViewController.m */,
+				1B7F9F8C14D3ACBD00A7803C /* LoadingView.h */,
+				1B7F9F8D14D3ACBD00A7803C /* LoadingView.m */,
 				1BBFB7E214D37C5600C8C1A0 /* Supporting Files */,
 			);
 			path = LuceneTest;
@@ -1077,6 +1103,23 @@
 			path = "Apple Sample Code";
 			sourceTree = "<group>";
 		};
+		1BBFBB2D14D3950400C8C1A0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1B7F9F7214D39F7100A7803C /* 1.txt */,
+				1B7F9F7314D39F7100A7803C /* 2.txt */,
+				1B7F9F7414D39F7100A7803C /* 3.txt */,
+				1B7F9F7514D39F7100A7803C /* 4.txt */,
+				1B7F9F7614D39F7100A7803C /* 5.txt */,
+				1B7F9F7714D39F7100A7803C /* 7.txt */,
+				1B7F9F7814D39F7100A7803C /* 8.txt */,
+				1B7F9F7914D39F7100A7803C /* 457636025.txt */,
+				1B7F9F7A14D39F7100A7803C /* gpu.txt */,
+				1B7F9F7B14D39F7100A7803C /* mmu.txt */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1129,6 +1172,16 @@
 			files = (
 				1BBFB7E614D37C5600C8C1A0 /* InfoPlist.strings in Resources */,
 				1BBFB7EF14D37C5600C8C1A0 /* MainStoryboard.storyboard in Resources */,
+				1B7F9F7C14D39F7100A7803C /* 1.txt in Resources */,
+				1B7F9F7D14D39F7100A7803C /* 2.txt in Resources */,
+				1B7F9F7E14D39F7100A7803C /* 3.txt in Resources */,
+				1B7F9F7F14D39F7100A7803C /* 4.txt in Resources */,
+				1B7F9F8014D39F7100A7803C /* 5.txt in Resources */,
+				1B7F9F8114D39F7100A7803C /* 7.txt in Resources */,
+				1B7F9F8214D39F7100A7803C /* 8.txt in Resources */,
+				1B7F9F8314D39F7100A7803C /* 457636025.txt in Resources */,
+				1B7F9F8414D39F7100A7803C /* gpu.txt in Resources */,
+				1B7F9F8514D39F7100A7803C /* mmu.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1301,6 +1354,7 @@
 				1BBFBB2114D392D000C8C1A0 /* S4CryptoUtils.m in Sources */,
 				1BBFBB2214D392D000C8C1A0 /* sha1.c in Sources */,
 				1BBFBB2614D3930700C8C1A0 /* wwanconnect.c in Sources */,
+				1B7F9F8E14D3ACBD00A7803C /* LoadingView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1412,6 +1466,7 @@
 				1BBFB7F714D37C5600C8C1A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
